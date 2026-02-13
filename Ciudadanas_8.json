@@ -1,0 +1,122 @@
+[
+{
+  "pregunta": {
+      "contexto": "En un pueblo se han identificado problemas de contaminación en los ríos. Como consecuencia, han disminuido las visitas de los turistas que acudían al pueblo a bañarse en los ríos. Algunos habitantes denuncian que la contaminación es generada por los químicos que se utilizan en la elaboración de productos a base de cuero de animal, típicos de la región. Si bien la elaboración de estos productos ha sido por muchos años la fuente principal de empleo en el pueblo, las autoridades locales decidieron suspender las licencias de funcionamiento de las empresas que fabrican y venden productos elaborados en cuero de animal.",
+      "pregunta": "Con esta decisión, ¿a qué aspecto de la situación le dieron más importancia las autoridades locales?"},
+  "respuesta": "A la recuperación de los ríos del pueblo.",
+  "distractores": ["A la economía de las empresas que elaboran productos a base de cuero animal.",
+"A la recuperación de actividades tradicionales de la gente del pueblo.",
+"A la economía de los turistas que acuden al pueblo."]},
+{
+  "pregunta": {
+      "contexto": "El alcalde de una ciudad realiza una campaña para que las mujeres no salgan solas de noche, especialmente si se ponen minifaldas o usan escotes y ropa apretada. Según él, con este vestuario provocan a los hombres y se exponen a que les hagan daño. El mandatario afirma que se hacen todos los esfuerzos por proteger a las mujeres, pero que si ellas no se protegen a sí mismas, la ciudad no puede hacerse responsable por lo que les ocurra.",
+      "pregunta": "¿Qué consecuencia puede tener el comentario del alcalde en las mujeres de la ciudad?"},
+  "respuesta": "Que se sientan ofendidas, porque el alcalde les asigna una parte de la culpa por los delitos cometidos contra ellas.",
+  "distractores": ["Que piensen que el alcalde las respalda, porque la campaña les garantiza el respeto de sus libertades.",
+"Que sientan que no son tenidas en cuenta, porque el alcalde desconoce sus necesidades en los proyectos que adelanta.",
+"Que piensen que están seguras, porque el alcalde va a garantizar su protección contra todo tipo de delitos."]},
+{
+  "pregunta": {
+      "contexto": "Para su clase de Ciencias Naturales, Sara hace una exposición sobre la importancia de cuidar el medio ambiente. En ella, Sara dice lo siguiente: “Si los seres humanos queremos vivir bien durante muchos más años, tenemos que cuidar los recursos naturales y respetar la vida de todas las especies que conviven con nosotros, sin importar su tamaño o apariencia”.",
+      "pregunta": "¿Cuál de los siguientes enunciados entra en conflicto con lo expuesto por Sara?"},
+  "respuesta": "Solo debemos cazar animales desagradables, como las culebras y los sapos.",
+  "distractores": ["Debemos cuidarnos de insectos que transmiten enfermedades, como los mosquitos.",
+"Podemos usar los recursos naturales, pero sin acabar con el medio ambiente.",
+"Solo debemos utilizar productos que no contaminen nuestros ecosistemas."]},
+{
+  "pregunta": {
+      "contexto": "En una comunidad de escasos recursos, un político dice lo siguiente: “Yo creo en esta comunidad. Sé que está conformada por gente trabajadora y talentosa, y es por eso que voy a ofrecerles empleos y oportunidades de estudio. Yo sé que, a pesar de ser pobres, ustedes sí son honrados”.",
+      "pregunta": "¿Es prejuiciosa la oración “a pesar de ser pobres, ustedes sí son honrados”?"},
+  "respuesta": "Sí, pues supone que generalmente las personas que son pobres no son honradas.",
+  "distractores": ["No, pues afirma que las personas de la comunidad son trabajadoras y talentosas.",
+"No, pues con ella muestra que apoyará a una comunidad que realmente lo necesita.",
+"Sí, pues el político la utiliza únicamente para hacer campaña y conseguir votos."]},
+{
+  "pregunta": {
+      "contexto": "Durante un incendio, un brigadista coordina la evacuación del edificio en una institución educativa. Las personas que están en el último piso empiezan a presionarlo, porque no les permite evacuar en primer lugar, considerando que ellos están en mayor riesgo. Ante esto, el brigadista les responde que es indispensable que los niños sean los primeros en ser evacuados, y que, posteriormente, debe darle prioridad a las personas con discapacidad.",
+      "pregunta": "Al darle prioridad, después de los niños, a las personas con discapacidad, ¿el brigadista desatendió el derecho constitucional a la igualdad?"},
+  "respuesta": "No, porque la igualdad también se garantizó al darle prioridad a quienes, por su condición, tenían más dificultades para evacuar.",
+  "distractores": ["No, porque el derecho establece que, con independencia de la situación en la que uno se encuentre, debe dársele ventaja a las personas con discapacidad.",
+"Sí, porque al evacuar primero a las personas con discapacidad se privilegiaron los intereses de unos pocos sobre los intereses de la mayoría.",
+"Sí, porque la igualdad exigía que todas las personas, con independencia de su condición, evacuaran al mismo tiempo."]},
+{
+  "pregunta": {
+      "contexto": "Durante un incendio, un brigadista coordina la evacuación del edificio en una institución educativa. Las personas que están en el último piso empiezan a presionarlo, porque no les permite evacuar en primer lugar, considerando que ellos están en mayor riesgo. Ante esto, el brigadista les responde que es indispensable que los niños sean los primeros en ser evacuados, y que, posteriormente, debe darle prioridad a las personas con discapacidad.",
+      "pregunta": "¿A qué enunciado de la Constitución atendió el brigadista al asegurarse de que los niños fueran evacuados primero?"},
+  "respuesta": "Los derechos de los niños y niñas prevalecen sobre los derechos de los demás.",
+  "distractores": ["Se debe proteger a los niños y niñas contra toda forma de abandono y violencia física o moral.",
+"Los niños y las niñas deben ser asistidos y protegidos para garantizar su desarrollo integral.",
+"La familia, la sociedad y el Estado tienen la obligación de asistir y proteger a los niños."]},
+{
+  "pregunta": {
+      "contexto": "Pablo tiene un dolor de cabeza cada vez más fuerte que le ha impedido asistir últimamente a clases. Su mamá lo lleva a un especialista que le dice que Pablo tiene una bacteria en el cerebro, por lo que debe tomar ciertos medicamentos. El papá de Pablo no está de acuerdo con que tome esos medicamentos, pues no son naturales y la religión de la familia prohíbe el uso de cualquier medicamento que no sea de origen completamente natural.",
+      "pregunta": "En la situación presentada, ¿cuáles aspectos se encuentran en conflicto?"},
+  "respuesta": "La salud de Pablo y la religión de la familia.",
+  "distractores": ["La asistencia a clases y los conocimientos del especialista.",
+"Los conocimientos del especialista y la salud de Pablo.",
+"La religión del papá de Pablo y la de la mamá."]},
+{
+  "pregunta": {
+      "contexto": "En un barrio se han presentado problemas de delincuencia provocados por algunos jóvenes, quienes aseguran no tener opciones laborales para conseguir recursos económicos. Frente a esta situación, los vecinos comerciantes han propuesto darles trabajo a los jóvenes con el fin de generar empleo y así reducir la delincuencia en el sector.",
+      "pregunta": "¿Cuál de las siguientes condiciones NO es necesaria para que en otro barrio se implemente la misma propuesta?"},
+  "respuesta": "Que la Policía vigile constantemente a los jóvenes.",
+  "distractores": ["Que en el barrio haya comerciantes que requieran empleados.",
+"Que los jóvenes estén interesados en emplearse.",
+"Que en el barrio haya jóvenes que no tengan en qué emplearse."]},
+{
+  "pregunta": {
+      "contexto": "Ángel es un joven a quien le gusta mucho estudiar. Últimamente ha estado entrenando tenis para participar en un torneo juvenil de este deporte. Los compañeros de Ángel se han dado cuenta de que no ha vuelto a ir a los partidos de fútbol que solía jugar con ellos. Cuando le preguntaron a Ángel la razón de su ausencia, el joven respondió que extrañaba jugar con ellos, pero que los horarios en los que entrenaba para el torneo de tenis eran muy estrictos, y que solo le dejaban tiempo para esto y para estudiar. El papá de Ángel está muy orgulloso de su hijo y lo anima a seguir estudiando y a no distraerse con nada distinto al torneo, para que demuestre que es el mejor.",
+      "pregunta": "¿Por qué la postura del papá de Ángel puede generar un conflicto?"},
+  "respuesta": "Porque ignora que los intereses de Ángel pueden ir más allá de prepararse para el torneo y estudiar.",
+  "distractores": ["Porque no entiende la razón por la cual los amigos de Ángel continúan invitándolo a jugar fútbol si todos saben que él se está preparando para un torneo de tenis.",
+"Porque impide que los amigos de Ángel continúen reuniéndose para jugar fútbol mientras él termina de prepararse para el torneo de tenis.",
+"Porque reconoce que los torneos de tenis son muy exigentes, pero confía en las capacidades de su hijo para ganar."]},
+{
+  "pregunta": {
+      "contexto": "Un grupo de estudiantes quiere que se realicen reuniones mensuales con los representantes de cada curso para resolver conflictos entre los estudiantes. Para hacerlo, deben pedir que se modifique el reglamento del colegio.",
+      "pregunta": "Para que se modifique el reglamento, los estudiantes deben acudir"},
+  "respuesta": "al Gobierno escolar.",
+  "distractores": ["a unas elecciones nacionales.",
+"al Concejo municipal.",
+"a una votación en el Congreso."]},
+{
+  "pregunta": {
+      "contexto": "Un hospital tiene problemas económicos; por ello, se han despedido algunos trabajadores y se han disminuido los salarios. Ante esta situación, los médicos han enviado cartas al Gobierno exponiendo las difíciles condiciones en las que están desarrollando sus funciones y exigiendo una solución; sin embargo, no han obtenido respuesta. Debido a esto, algunos médicos decidieron convocar a una marcha en señal de protesta. Ante esta iniciativa, el director del hospital anunció que se permitiría faltar al trabajo a quienes decidieran asistir a la manifestación.",
+      "pregunta": "De acuerdo con la Constitución Política de Colombia, ¿la decisión que tomó el director es correcta?"},
+  "respuesta": "Sí, porque el director está protegiendo el derecho a la protesta.",
+  "distractores": ["No, porque es ilegal criticar las decisiones del Gobierno.",
+"Sí, porque el director debe aceptar todas las iniciativas de sus trabajadores.",
+"No, porque es ilegal hacer protestas por razones laborales."]},
+{
+  "pregunta": {
+      "contexto": "A un colegio están asistiendo muchos estudiantes sin el uniforme escolar que diseñó una estudiante de grado 10.° y que fue aprobado por la mayoría como el uniforme oficial del colegio. Para resolver esta situación, el rector propone que los vigilantes no permitan la entrada al colegio a los estudiantes que asistan vestidos de particular. El rector afirma que ninguna otra estrategia ha servido para que los estudiantes lleguen al colegio en uniforme. Un grupo de profesores, por su parte, propone que se instale un sistema de multas y recompensas para resolver este problema: multa para quienes lleguen al colegio sin el uniforme y recompensas para quienes lo usen.",
+      "pregunta": "¿Qué semejanzas hay entre los puntos de vista del rector y del grupo de profesores frente a esta situación?"},
+  "respuesta": "Que ambos consideran que para que los estudiantes usen el uniforme aprobado por la mayoría debe implementarse alguna forma de castigo.",
+  "distractores": ["Que ambos consideran que los estudiantes deben seguir las normas del colegio, aunque esto implique que pierdan clase cuando deben ser sancionados por incumplirlas.",
+"Que ambos manifiestan su cansancio frente a las diferentes estrategias implementadas en el colegio para que los estudiantes usen el uniforme, porque estas han fallado.",
+"Que ambos manifiestan interés por comprender las razones por las cuáles el uniforme es rechazado por quienes decidieron no aprobarlo."]},
+{
+  "pregunta": {
+      "contexto": "La mamá de Silvio lo lleva al pediatra porque lo ve muy agresivo con su familia y compañeros del colegio. En la cita, el pediatra le dice a la mamá de Silvio: “Mi señora, es mejor que usted se vaya acostumbrando. Su hijo es así y no hay nada que usted pueda hacer para cambiarlo. Los genes que usted y su esposo le pasaron al niño determinan todo lo que él es ahora y todo lo que será en el futuro”",
+      "pregunta": "¿Cuál de las siguientes creencias explica lo dicho por el pediatra de Silvio?"},
+  "respuesta": "Los seres humanos y sus comportamientos consigo mismos y con los demás están determinados genéticamente.",
+  "distractores": ["La sociedad en la que viven los seres humanos hace que las personas se vuelvan agresivas con sus parientes cercanos.",
+"Las relaciones sociales que establecen las personas determinan cómo son y cómo serán en el futuro.",
+"Las características físicas de los seres humanos están determinadas por la genética."]},
+{
+  "pregunta": {
+      "contexto": "En una familia, los padres acaban de conseguir nuevos trabajos. Y, aunque ahora cuentan con dinero suficiente para ir a cine o a un parque de diversiones, ambos tienen que trabajar todos los días hasta altas horas de la noche y ya casi no tienen tiempo para estar con sus hijos. Los hijos, que están en vacaciones, se sienten muy aburridos con la situación y les reclaman a sus padres constantemente.",
+      "pregunta": "En esta situación, ¿cuáles de los siguientes aspectos están en conflicto?"},
+  "respuesta": "Las largas jornadas laborales y el tiempo que se tiene para compartir en familia.",
+  "distractores": ["Los deberes escolares y el dinero que se tiene para salir en familia.",
+"Los deberes escolares y el tiempo que se tiene para compartir en familia.",
+"Las largas jornadas laborales y el dinero que se tiene para salir en familia."]},
+{
+  "pregunta": {
+      "contexto": "Un grupo de ciudadanos propone un proyecto de ley para que se garantice la atención en salud de los animales sin dueño.",
+      "pregunta": "De acuerdo con la Constitución Política de Colombia, ¿cuál de las siguientes ramas del poder público debe evaluar el proyecto de ley?"},
+  "respuesta": "La legislativa.",
+  "distractores": ["La presidencial.",
+"La judicial.",
+"La ejecutiva."]}
+  ]
