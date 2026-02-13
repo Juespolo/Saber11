@@ -1,1 +1,122 @@
-
+[
+{
+  "pregunta": {
+      "contexto": "El presidente de un país, electo democráticamente, decide que, para facilitar la aprobación de sus propuestas por el Congreso, va a abolir todos los partidos políticos de oposición.",
+      "pregunta": "¿Esta decisión atenta contra la democracia?"},
+  "respuesta": "Sí, porque los partidos políticos garantizan la representación de diferentes ideologías.",
+  "distractores": ["No, porque favorece la aprobación de los planes de gobierno del presidente.",
+"No, porque fortalece el partido político del presidente electo por votación popular.",
+"Sí, porque los partidos políticos deben respaldar las decisiones del presidente electo"]},
+{
+  "pregunta": {
+      "contexto": "Los habitantes de un pueblo localizado a las orillas de un río han vivido siempre de la pesca. Con el fin de desarrollar una planta hidroeléctrica que proveería de energía a toda la región, el Gobierno nacional decide represar el río antes de su llegada a la cabecera municipal. Los habitantes del municipio presentan una queja ante la Defensoría del Pueblo, exigiendo que no se lleve a cabo el proyecto, pues este afectaría gravemente su principal fuente de sustento. En respuesta, para compensar a las personas que verán afectada su actividad económica, el Gobierno ofrece empleo en la planta a los habitantes del pueblo.",
+      "pregunta": "La solución propuesta por el Gobierno:"},
+  "respuesta": "solucionaría parcialmente el problema, porque no considera que puede haber personas que no podrán o no desearán cambiar su actividad económica.",
+  "distractores": ["no solucionaría el problema, porque las personas del pueblo no podrían volver a pescar.",
+"no solucionaría el problema, porque los habitantes perderán una de sus tradiciones más importantes.",
+"solucionaría completamente el problema, porque le daría empleo a todas las personas que perderían su forma de sustento."]},
+{
+  "pregunta": {
+      "contexto": "El proyecto de realizar una carretera transnacional despierta polémica entre dirigentes y ciudadanos. Hay dos visiones del asunto: la primera dice que la vía podría impulsar el comercio, pero generaría un daño en bosques y especies. La segunda afirma que las vías incrementan el turismo y reducen los costos del transporte de los productos agrícolas de la región.",
+      "pregunta": "Estas dos visiones:"},
+  "respuesta": "se oponen en que en la segunda se considera que el proyecto no genera daños ambientales.",
+  "distractores": ["tienen en común que reconocen los beneficios económicos del proyecto.",
+"se diferencian en que solo una tiene en cuenta a la tierra como recurso.",
+"tienen en común que ambas prevén posibles efectos negativos del proyecto."]},
+{
+  "pregunta": {
+      "contexto": "José es el líder de un grupo musical y quiere dar un concierto en la plaza principal de su ciudad. Para esto, tiene que solicitar a la administración de la ciudad varios permisos, cuyos trámites toman varios días. Sin embargo, se entera de esto dos días antes del evento. José llama entonces a un amigo que es concejal para que presione a las entidades que expiden los permisos. Por su parte, el funcionario que tramita los permisos en la entidad distrital le pide a José dinero para agilizar los trámites.",
+      "pregunta": "¿Qué quieren lograr José y el funcionario del distrito?"},
+  "respuesta": "Saltarse pasos en el trámite de los permisos necesarios para el concierto.",
+  "distractores": ["Hacer más efectivo el proceso de trámite de los permisos.",
+"Evitar el trámite de los permisos requeridos para el concierto.",
+"Llevar a cabo el proceso de los permisos evitando trámites innecesarios."]},
+{
+  "pregunta": {
+      "contexto": "De acuerdo con el artículo 2 de la Constitución Política de Colombia, “son fines esenciales del Estado servir a la comunidad, promover la prosperidad general y garantizar la efectividad de los principios, derechos y deberes consagrados en la Constitución; facilitar la participación de todos en las decisiones que los afectan y en la vida económica, política, administrativa y convivencia pacífica y la vigencia de un orden justo. Las autoridades de la República están instituidas para proteger a todas las personas residentes en Colombia, en su vida, honra, bienes, creencias y demás derechos y libertades, y para asegurar el cumplimiento de los deberes sociales del Estado y de los particulares.”",
+      "pregunta": "De acuerdo con el artículo anterior, se puede afirmar que en la Constitución de 1991 se aboga por un modelo de democracia participativa, porque"},
+  "respuesta": "se les otorga a los ciudadanos derechos políticos que transcienden la elección de sus representantes.",
+  "distractores": ["el Estado tiene el deber de garantizar que los ciudadanos se beneficien de la prosperidad general.",
+"el Gobierno tiene el deber constitucional de defender los derechos y libertades de los ciudadanos.",
+"las autoridades de la República están instituidas para proteger la integridad de las personas."]},
+{
+  "pregunta": {
+      "contexto": "Un documento del Consejo Nacional de Política Económica y Social elaborado en 1990 dice lo siguiente: “Debido a los grandes niveles de protección, las unidades productivas ven reducidos los incentivos para buscar mejoras tecnológicas que se traduzcan en mayores niveles de eficiencia, en mejoras en la calidad y en variedad de los productos. Por otra parte, la inversión en Colombia no siempre se ha realizado en los sectores de mayor potencialidad de crecimiento, ni en los que mayores posibilidades tienen de convertirse en exportadores. Por el contrario, se han inducido inversiones en sectores en los que el país posee claras desventajas relativas.”",
+      "pregunta": "El anterior apartado ofrece razones que justifican la implementación de una política de apertura económica,"},
+  "respuesta": "porque señala que proteger la economía nacional desestimula la competitividad y no garantiza que los recursos del Estado se dirijan hacia sectores con ventajas comparativas.",
+  "distractores": ["porque indica que la diversificación de la producción nacional incrementa las posibilidades de inserción de las empresas nacionales en mercados altamente competitivos.",
+"porque sugiere que la inversión en ciencia y tecnología puede generar un incremento progresivo de las exportaciones y una reducción significativa de las importaciones.",
+"porque describe las ventajas de proteger a los sectores económicos que cuentan con menos recursos para competir con éxito en el mercado internacional."]},
+{
+  "pregunta": {
+      "contexto": "Un científico colombiano trabaja en el desarrollo de una vacuna contra la malaria, una enfermedad tropical que anualmente mata a millones de personas en los países en desarrollo. Para esto, el científico y su grupo de investigación trabajan con micos, con los cuales experimentan probando diferentes cepas de malaria y la efectividad de la vacuna en ellos. Los micos infectados que sobreviven a la malaria son devueltos a su hábitat. Algunas personas, defensoras de los animales, han manifestado su inconformidad por el uso experimental de los micos y por la inoculación de la malaria en ellos. Por esta razón, han entablado una demanda contra el científico para impedirle el uso de estos animales en sus trabajos científicos.",
+      "pregunta": "¿Cuál de los siguientes enunciados apoya la postura del grupo de ciudadanos que demanda al científico?"},
+  "respuesta": "Es inadmisible que se liberen animales infectados que transmitan la enfermedad a otros individuos de su especie.",
+  "distractores": ["Es posible usar animales en investigaciones científicas siempre que se les dé un trato ético.",
+"Es inadmisible que seres humanos trabajen con animales infectados porque ponen en riesgo su salud.",
+"El uso de animales para encontrar la cura contra la malaria permitirá en el futuro desarrollar vacunas para curar cualquier enfermedad."]},
+{
+  "pregunta": {
+      "contexto": "Uno de los programas del Gobierno de Juan Manuel Santos buscaba “otorgar títulos de propiedad a aquellos hogares que venían haciendo uso de la tierra y que no tenían un documento formal que estableciera la tenencia legal de la propiedad.”",
+      "pregunta": "De los siguientes, ¿cuál era el objetivo más probable de esta política de titulación de tierras?"},
+  "respuesta": "Evitar futuros procesos de apropiación indebida de tierras.",
+  "distractores": ["Preparar al sector agrícola para futuros tratados comerciales.",
+"Fomentar el uso industrial de las tierras cultivables.",
+"Hacer más efectiva la asignación de créditos agrícolas."]},
+{
+  "pregunta": {
+      "contexto": "Con la aplicación de la ciencia y la tecnología, los efectos de la Revolución Industrial mejoraron los procesos productivos en el campo y propiciaron el uso de nuevas fuentes de energía como el carbón y el vapor.",
+      "pregunta": "Indirectamente, esta revolución condujo a"},
+  "respuesta": "el deterioro del ambiente y al uso irracional de la tierra.",
+  "distractores": ["la consolidación de la agricultura y la ganadería.",
+"la desaparición de las pequeñas y medianas empresas.",
+"la interrupción de la minería y la manufactura."]},
+  {
+  "pregunta": {
+      "contexto": "Los directivos de una empresa proponen que las decisiones sean tomadas solamente por hombres. Entre el grupo de empleados, los hombres están de acuerdo con ellos pues creen que el género es más importante que la formación a la hora de tomar decisiones. Las mujeres de la empresa opinan que es una idea discriminatoria y que quien tome las decisiones debe ser la persona más competente. Por otro lado, los clientes piensan que no importa quién tome la decisión, siempre y cuando sea la más adecuada.",
+      "pregunta": "Respecto a quién debe tomar las decisiones en la empresa, ¿quiénes tienen opiniones compatibles?"},
+  "respuesta": "Los clientes y las mujeres.",
+  "distractores": ["Los directivos y los clientes.",
+"Los hombres y las mujeres.",
+"Las mujeres y los directivos."]},
+{
+  "pregunta": {
+      "contexto": "El sociólogo Arturo Laguado afirma: “Las privaciones que se asocian a la pobreza son sumamente distintas; pobreza puede significar –por ejemplo, entre los wayú– falta de chivos o de lazos familiares.”",
+      "pregunta": "Según esta afirmación, ¿con cuál de los siguientes aspectos se relacionan las concepciones sociales de la pobreza?"},
+  "respuesta": "Los recursos que se consideran valiosos dentro de un territorio.",
+  "distractores": ["El tipo de actividad económica predominante en una región.",
+"El modelo económico que orienta las políticas de un país.",
+"Las creencias tradicionales de los grupos étnicos."]},
+{
+  "pregunta": {
+      "contexto": "En una fiesta de matrimonio, el recién casado le presenta su esposa a un amigo suyo diciendo: “¿Ya conoces a mi primera esposa?”.",
+      "pregunta": "En relación con el comportamiento del nuevo esposo, lo más probable es que"},
+  "respuesta": "no tenga la intención de estar casado para siempre, pues espera tener más de una esposa.",
+  "distractores": ["no tenga la intención de estar casado para siempre, pues no le gusta la idea de casarse.",
+"quiera que su matrimonio dure para siempre, porque no quiere divorciarse nunca.",
+"quiera que su matrimonio dure para siempre, ya que le presenta su esposa a sus amigos."]},
+  {
+  "pregunta": {
+      "contexto": "En Bogotá existe un barrio en el que han venido concentrándose consumidores y vendedores de drogas ilegales. Para mejorar la situación de este barrio, y de los consumidores de drogas que a él acuden, la Alcaldía Mayor propuso retirar del barrio a todos los traficantes de drogas y a los consumidores. En segundo lugar, se han propuesto controles médicos para los consumidores, los cuales incluirían programas de sustitución de sustancias.",
+      "pregunta": "Si se decidiera implementar únicamente la primera solución, ¿qué impacto tendría en las personas que consumen drogas?"},
+  "respuesta": "Negativo, ya que encontrarían otros expendedores y su adicción continuaría sin ser tratada.",
+  "distractores": ["Positivo, pues ya no podrían comprar drogas a los traficantes y esta abstinencia forzosa los curaría.",
+"Negativo, pues se acabaría con la principal actividad económica del barrio y tendrían que trasladarse a otro.",
+"Positivo, pues gracias al apoyo médico podrían superar su problema de adicción a las drogas."]},
+{
+  "pregunta": {
+      "contexto": "",
+      "pregunta": "¿Cuál de las siguientes es una función de los partidos políticos en una democracia?"},
+  "respuesta": "Representar los diversos intereses de los ciudadanos.",
+  "distractores": ["Avalar las decisiones tomadas por el presidente de la República.",
+"Controlar a los miembros del Congreso de la República.",
+"Resolver conflictos ciudadanos que los jueces no puedan resolver."]},
+{
+  "pregunta": {
+      "contexto": "Discriminar significa separar a alguien porque se considera que es “inferior” a los demás. Puede discriminarse por diferentes motivos: por género, religión, origen geográfico, raza, orientación sexual, entre otros.",
+      "pregunta": "¿En cuál de las siguientes situaciones se presenta discriminación por orientación sexual?"},
+  "respuesta": "Una pareja de mujeres es insultada por sostener una relación afectiva.",
+  "distractores": ["Una mujer es despedida del trabajo por estar embarazada.",
+"Emigrantes en un país europeo son golpeados debido a su origen.",
+"A una mujer afrocolombiana se le niega el ingreso a una discoteca."]}
+  ]
