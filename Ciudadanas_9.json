@@ -1,0 +1,122 @@
+[
+{
+  "pregunta": {
+      "contexto": "Un colegio quiere establecer una campaña de reciclaje. Gloria, la coordinadora, propone que se instalen canecas especiales para reciclar y que se les enseñe a los estudiantes cómo utilizarlas. A Jorge, uno de los docentes más antiguos, esta opción le parece poco eficiente. Jorge cree que lo mejor es imponer sanciones y castigos a las personas que no reciclen en el colegio. Jorge piensa que, de otra manera, los estudiantes no reciclarán.",
+      "pregunta": "¿En qué se parecen las posiciones de Gloria y de Jorge?"},
+  "respuesta": "Ambos reconocen que es importante que los estudiantes del colegio reciclen.",
+  "distractores": ["Ambos piensan que reciclar no es una acción que mejore el medio ambiente.",
+"Ambos piensan que es importante castigar a los estudiantes que no reciclen.",
+"Ambos comparten los mismos métodos para enseñar a reciclar en el colegio."]},
+{
+  "pregunta": {
+      "contexto": "En el mundo, muchas comunidades preparan sus alimentos en cocinas de carbón y leña, lo que provoca un gran número de muertes cada año debido a la inhalación de humos de cocina. En una comunidad que no tiene acceso a recursos eléctricos ni a gasoductos, se ha propuesto instalar cocinas comunitarias que funcionen con una planta eléctrica que no genere humos de cocina nocivos. La planta será financiada por el Gobierno Nacional. Los habitantes de la comunidad aplauden la iniciativa del Gobierno, pues quieren reducir los efectos nocivos de las cocinas de carbón. Sin embargo, no están del todo de acuerdo con la solución, pues afirman que no saben cómo usar la planta. El Gobierno propone, entonces, capacitar a varios de los habitantes en el uso y mantenimiento de la planta eléctrica.",
+      "pregunta": "En este contexto, ¿la propuesta de solución del Gobierno se ajusta a los intereses de la comunidad?"},
+  "respuesta": "Sí, pues ofrece una alternativa a las cocinas de carbón y resuelve la preocupación de los habitantes que no tienen el conocimiento para usar la planta.",
+  "distractores": ["No, porque aunque los habitantes tendrán acceso a una alternativa sana para cocinar, no tendrán la capacidad técnica para usarla.",
+"No, porque la propuesta no ofrece una alternativa al uso extendido de las cocinas de carbón que la comunidad pueda financiar por su cuenta.",
+"Sí, pues con la nueva planta eléctrica las cocinas de carbón serán más eficientes y los habitantes tendrán la formación necesaria para emplearlas."]},
+{
+  "pregunta": {
+      "contexto": "¿Querer tener hijos y luego arrepentirse? Es el caso de muchas mujeres que eligen llevarse ese “secreto” a la tumba, dice la autora del libro “Madres arrepentidas: Una mirada radical a la maternidad”. Ella nació y creció en Israel, un país que tiene un promedio de tres hijos por mujer. Ese promedio es mucho más alto que el de otros países desarrollados como Estados Unidos, en donde el promedio es de 1,70 hijos, en Reino Unido 1,65 y en Alemania 1,54. Todavía es muy difícil no tener hijos, por el rechazo que reciben las mujeres que no quieren tenerlos. A las mujeres, desde jóvenes, las crían diciéndoles que la maternidad es la esencia de sus vidas y que tendrán problemas con sus parejas si no quieren o no pueden tener hijos. Al mismo tiempo, rechazan a las que son independientes, tienen un buen trabajo y dicen no querer ser madres. Las tratan de egoístas, locas, inmaduras y dicen que no son mujeres de verdad.",
+      "pregunta": "De acuerdo con el artículo, ¿cuál es el aspecto más importante de la problemática descrita?"},
+  "respuesta": "La presión social y el maltrato que reciben las mujeres que no quieren ser madres.",
+  "distractores": ["Los problemas de pareja que tienen las mujeres independientes y sin hijos.",
+"Las diferencias entre los países en desarrollo con muchos y pocos hijos por mujer.",
+"Las oportunidades laborales que pierden las mujeres que deciden no ser madres."]},
+{
+  "pregunta": {
+      "contexto": "La junta administradora local y los vecinos de un barrio discuten las estrategias para evitar la acumulación de basuras en el parque infantil. Para la junta, una solución es empezar a sancionar con multas económicas a las personas que arrojen basuras en el parque. Los vecinos aceptan la solución de la junta, aunque no están de acuerdo del todo con esta, pues, según ellos, los culpables de la acumulación de basuras son los recicladores, pues utilizan el parque para separar las basuras que recogen de los barrios cercanos, por lo que los vecinos preferirían que los recicladores sean desalojados del parque.",
+      "pregunta": "De acuerdo con el contexto, ¿cuál es el interés que tienen en común la junta y los vecinos?"},
+  "respuesta": "Que se reduzcan las basuras arrojadas en el parque.",
+  "distractores": ["Que solo se cobren multas a los recicladores.",
+"Que los recicladores sean desalojados del parque.",
+"Que se cobren multas a quienes dejen basuras en el parque."]},
+{
+  "pregunta": {
+      "contexto": "El papá de Julián, después de enterarse de lo que habían hecho ese día en el colegio, escribió, ofendido, una carta a la rectora: “El día de hoy el profesor de Julián llevó a los estudiantes a visitar una fábrica de prendas de cuero, dizque para que aprendieran sobre el trabajo en las fábricas y pudieran ver ellos mismos el proceso mediante el cual se transforma la piel de una vaca en una chaqueta de cuero. En adelante, no quiero que lleven a mi hijo a ninguna parte donde le enseñen que está bien matar animales para producir ropa, y exijo que el profesor dedique al menos una clase a hablar sobre los derechos de los animales”.",
+      "pregunta": "¿A qué aspecto de la situación le da más importancia el padre de Julián?"},
+  "respuesta": "A la protección de los animales que se usan para producir cuero.",
+  "distractores": ["A que los niños entiendan cómo es trabajar en una fábrica.",
+"A los derechos de las personas que dependen económicamente del cuero.",
+"A que los niños se aseguren de que sus animales domésticos estén a salvo."]},
+{
+  "pregunta": {
+      "contexto": "Dada la gran cantidad de inmigrantes que han llegado al país durante los últimos años y las limitaciones presupuestales del Ministerio de Relaciones Exteriores, que le impiden procesar las solicitudes de nacionalización de estas personas, el Gobierno Nacional ha decidido hacer una priorización.",
+      "pregunta": "De acuerdo con la Constitución, ¿a qué grupo de inmigrantes se les debería dar prioridad?"},
+  "respuesta": "A los niños, porque sus derechos prevalecen sobre los de los demás.",
+  "distractores": ["A los intelectuales, porque pueden aportar más al país que los demás.",
+"A las personas con discapacidad, porque necesitan atención médica.",
+"A las mujeres, porque necesitan subsidios de manera prioritaria."]},
+{
+  "pregunta": {
+      "contexto": "Un profesor identifica que sus estudiantes no comprenden la importancia de trabajar en equipo. En su opinión, esto sucede porque valoran mucho más los resultados que obtienen por sus esfuerzos individuales. Para resolver esta situación, el profesor decide que va a seguir asignando trabajos individuales y en grupo, pero que los trabajos en grupo serán más importantes en la calificación final de los estudiantes. Algunas personas reaccionaron así frente a esta propuesta: --Al rector del colegio le interesa que el profesor no descuide el avance en el aprendizaje de sus estudiantes. --Un estudiante llamado Roberto considera que, de esta manera, será más fácil obtener buenas calificaciones. --A la coordinadora le interesa que cada uno de los estudiantes demuestre sus competencias porque considera que en el mundo real las personas solo triunfan por sus esfuerzos individuales y no por lo que realicen en grupo. --A una estudiante llamada Sara le interesa desarrollar habilidades para sobresalir en el mundo laboral y considera que quien aprende a trabajar en equipo de manera armoniosa más adelante será un buen trabajador.",
+      "pregunta": "La propuesta del profesor va en contra de los intereses"},
+  "respuesta": "de la coordinadora.",
+  "distractores": ["del rector del colegio.",
+"del estudiante Roberto.",
+"de la estudiante Sara."]},
+{
+  "pregunta": {
+      "contexto": "Los directivos de una institución académica decidieron incluir en el Manual de convivencia una norma que prohíbe la manifestación de cualquier conducta, práctica o pensamiento homosexual dentro de la institución. Pese a esto, una estudiante de 11 grado decide hacer pública su preferencia sexual hacia las mujeres, frente a lo cual los directivos tomaron la decisión de expulsarla del colegio.",
+      "pregunta": "Teniendo en cuenta los principios de la Constitución Política de Colombia, el colegio obró de manera"},
+  "respuesta": "incorrecta, puesto que está vulnerando derechos fundamentales establecidos en la Constitución, y la Constitución está por encima del Manual de convivencia.",
+  "distractores": ["correcta, ya que siguió las normas del Manual de convivencia, y en la Constitución se establece que cada colegio puede imponer las normas que prefiera.",
+"incorrecta, puesto que está vulnerando los principios establecidos en la Constitución, y la Constitución plantea que los colegios no deben tener un Manual de convivencia propio.",
+"correcta, ya que siguió las normas del Manual de convivencia, y el Manual de convivencia está por encima de la Constitución."]},
+{
+  "pregunta": {
+      "contexto": "Los trabajadores de una empresa están en huelga porque sus condiciones de trabajo no son adecuadas. Varios defensores de derechos humanos acompañan la huelga, con el fin de asegurarse de que no se cometa ningún tipo de acto violento contra los trabajadores.",
+      "pregunta": "Con esta acción, ¿cuál derecho de los trabajadores están protegiendo los defensores de derechos humanos?"},
+  "respuesta": "El derecho a manifestarse pacíficamente.",
+  "distractores": ["El derecho a la igualdad.",
+"El derecho al buen nombre de la empresa.",
+"El derecho a formar un sindicato."]},
+{
+  "pregunta": {
+      "contexto": "Un grupo de agricultores se reúne para discutir los problemas de producción que presenta la región. Gran parte de sus habitantes se encuentra en condición de pobreza y, durante muchos años, han empleado técnicas manuales de cultivo, lo que reduce su productividad. Ante esta situación, uno de los líderes de la región propone mejorar las técnicas de cultivo, adquiriendo maquinaria y contratando expertos para que capaciten a los campesinos de la región en el uso de esta.",
+      "pregunta": "¿Qué aspecto del problema no considera la propuesta del líder?"},
+  "respuesta": "Los recursos económicos necesarios para implementar su propuesta.",
+  "distractores": ["Las personas afectadas por el problema de productividad en la región.",
+"Los recursos humanos necesarios para capacitar a los campesinos de la región.",
+"Las prácticas que pueden generar un cambio positivo en las técnicas de cultivo."]},
+{
+  "pregunta": {
+      "contexto": "Como parte del proyecto de ciencias y emprendimiento, los docentes de noveno deciden construir un cultivo de lombrices. El propósito de este cultivo es generar abono, obtener carne de lombriz y venderla, pues es consumida en muchos países por ser baja en grasa y alta en proteínas. El padre de uno de los estudiantes menciona que su hijo no participará en el proyecto, porque su familia es vegetariana y no están de acuerdo con el consumo de animales para la alimentación.",
+      "pregunta": "En la situación planteada, ¿qué aspectos están en conflicto?"},
+  "respuesta": "Las prácticas alimenticias de la familia y el uso de lombrices para producir carne.",
+  "distractores": ["El cultivo de lombrices para generar abono y su aprovechamiento para producir carne.",
+"El uso de lombrices para producir abono y el régimen vegetariano de la familia.",
+"La salud de los estudiantes y el uso de lombrices para su alimentación."]},
+{
+  "pregunta": {
+      "contexto": "Un famoso restaurante, conocido por ofrecer una gran variedad de carnes (de res, cerdo y pollo), organizó un concurso de cocina. Los participantes debían preparar recetas con carne, y el plato ganador sería incluido en la carta del restaurante. Una persona vegetariana, que decidió participar en el concurso, dijo lo siguiente: “Quiero participar preparando un plato con carne de soya, a modo de protesta, pues la soya es la carne para quienes no quieren sacrificar la vida de otros seres”. Al final, la receta vegetariana tuvo gran acogida y terminó siendo la ganadora del concurso.",
+      "pregunta": "¿Cuál de las siguientes formas de ver la vida explica mejor lo dicho por la persona vegetariana?"},
+  "respuesta": "La vida de los animales es igual de valiosa a la de los humanos, por lo cual no se debe comer su carne.",
+  "distractores": ["La comida permite combinar una gran variedad de sabores que hacen que la vida de las personas valga la pena, por lo cual es una expresión artística muy importante.",
+"La vida de las personas es sagrada, por lo cual todos deberíamos comer de manera balanceada y saludable, y hacer ejercicio regularmente.",
+"Las recetas tradicionales son parte de la historia y la cultura de los pueblos, por lo cual deben rescatarse."]},
+{
+  "pregunta": {
+      "contexto": "El siguiente argumento presenta las ideas de una comunidad en contra de la eutanasia, es decir, la acción de acelerar la muerte de un enfermo terminal para evitarle sufrimientos innecesarios: Estamos de acuerdo con morir con dignidad, con los cuidados para evitar el dolor, con la hidratación y con el uso de todos los medicamentos que le sirvan a una persona para vivir, pero no aceptamos matar a un enfermo terminal, así él lo pida, porque es un homicidio o un suicidio asistido y eso es un crimen. La eutanasia es un crimen contra la vida humana y la ley divina, del que se hacen responsables todos los que intervienen en la decisión y realización del asesinato.",
+      "pregunta": "¿Con cuál de las siguientes cosmovisiones es más compatible este argumento?"},
+  "respuesta": "La vida es un derecho sagrado sobre el cual las personas no tienen poder de decisión.",
+  "distractores": ["Cada ser humano tiene la libertad de disponer de su propia vida, independientemente de la influencia de creencias religiosas.",
+"El ser humano es una criatura racional y autónoma, por esto tiene el derecho de decidir cuándo poner fin a su vida, con el fin de evitar el sufrimiento.",
+"La vida es un derecho al que se puede renunciar, si las personas lo deciden."]},
+{
+  "pregunta": {
+      "contexto": "En un colegio se aplican sanciones disciplinarias a los niños indígenas que no portan el uniforme como lo señalan las normas y se visten con algunas prendas propias de su cultura. Con estas sanciones, las directivas buscan que los niños se adapten a las costumbres de la mayoría de los estudiantes. Ante esta situación, el Gobierno decide exigirle al colegio que quite la norma y permita que los niños indígenas asistan a clases con las prendas que ellos prefieran.",
+      "pregunta": "De acuerdo con la Constitución Política de Colombia, ¿cuál de las siguientes razones explica la decisión del Gobierno?"},
+  "respuesta": "El deber de proteger la diversidad étnica y cultural en todo el país.",
+  "distractores": ["El deber de proteger el acceso a la educación de todos los ciudadanos.",
+"El deber de garantizar la existencia de una misma cultura en todo el país.",
+"El deber exclusivo de los indígenas para exigir y proteger sus derechos."]},
+{
+  "pregunta": {
+      "contexto": "Como consecuencia del cambio climático y la fuerte sequía que azota a varias regiones del país, poblaciones como las que habitan en La Guajira se han visto afectadas fuertemente. Niños y adultos de regiones marginadas del departamento han comenzado a padecer de deshidratación y desnutrición. Para aliviar esta situación, se desarrolló una campaña para donar alimentos y bebidas a las comunidades afectadas. Así, en varias ciudades, se recogieron grandes cantidades de bolsas de agua, alimentos empaquetados y latas de conserva, para entregarlos a distintas comunidades.",
+      "pregunta": "¿Qué efecto NO deseado puede tener la campaña desarrollada?"},
+  "respuesta": "Que aumente la cantidad de plásticos y demás productos no biodegradables en las zonas aledañas en donde habitan las comunidades.",
+  "distractores": ["Que el Estado comprenda la necesidad de prever crisis como estas y de estar preparado para afrontarlas.",
+"Que disminuya el número de personas y comunidades enfermas como consecuencia de la sequía.",
+"Que la población del país sienta que es su deber ayudar a sus compatriotas en momentos de crisis."]}
+  ]
